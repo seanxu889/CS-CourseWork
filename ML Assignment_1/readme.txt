@@ -1,4 +1,4 @@
-[CS 613 - Machine Learning Assignment 1]
+[CS 613 - Machine Learning Assignment 1]: PCA, K-Means
 
 Name: Shaoshu Xu
 
